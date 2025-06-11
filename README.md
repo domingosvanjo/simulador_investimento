@@ -23,7 +23,7 @@ Ferramenta de Controle de Investimentos com Excel. Simulador para o investidor t
 <p align='justify'>Aqui você escolhe seu perfil de investidor mais adequado com suas carecterísticas pessoais. Logo a planilha sugere as porcentagens e valores, de acordo o aporte, para investir. Lembrando que estes valores são sugestões. Fique a vontade para relizá-los de acordo sua realidade.
 
 ## Link para o projeto
-<a href='['https://github.com/domingosvanjo/simulador_investimento/blob/master/DIO%20Invest.xlsx'](https://github.com/domingosvanjo/simulador_investimento/blob/master/DIO%20Invest.xlsx)'><img width='100%' height='500px' src='images\tela_completa.png' alt='imagem da planilha completa' title='Clique aqui para acessar a planilha'> </a>
+<a href='['https://github.com/domingosvanjo/simulador_investimento/blob/master/DIO%20Invest.xlsx'][https://github.com/domingosvanjo/simulador_investimento/blob/master/DIO%20Invest.xlsx]'><img width='100%' height='500px' src='images\tela_completa.png' alt='imagem da planilha completa' title='Clique aqui para acessar a planilha'> </a>
 
 ## Ferramentas utilizadas
 <img src="https://www.kaptiva.ca/wp-content/uploads/2019/06/formation-excel.png" alt="Ícone do Excel" title="Excel" height="30" width="35"/> ![Git](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=git&logoColor=yellow) 	![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
